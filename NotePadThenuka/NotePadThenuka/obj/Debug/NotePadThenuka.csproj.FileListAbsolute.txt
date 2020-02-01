@@ -1,0 +1,10 @@
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\bin\Debug\NotePadThenuka.exe.config
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\bin\Debug\NotePadThenuka.exe
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\bin\Debug\NotePadThenuka.pdb
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.csprojAssemblyReference.cache
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.MainNotepadfrm.resources
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.Properties.Resources.resources
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.csproj.GenerateResource.cache
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.csproj.CoreCompileInputs.cache
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.exe
+C:\Users\Thenuka Gunawardana\Desktop\TBSEAssignment\NotePadThenuka\NotePadThenuka\obj\Debug\NotePadThenuka.pdb
